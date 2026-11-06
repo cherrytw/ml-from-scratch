@@ -1,6 +1,6 @@
 # Episode 1: Who survived the Titanic?
 
-The video: [**Machine learning from scratch**, episode 1](https://youtu.be/0ZwCM-_6YYU), on
+The video: [**Machine learning from scratch**, episode 1](https://youtu.be/TxSd_xVm0LA), on
 [MP_Studio's YouTube channel](https://www.youtube.com/@mpstudioapp).
 
 Every cell from the video, in order, with what it does and screenshots. You

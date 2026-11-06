@@ -1,6 +1,6 @@
 # Episode 0: Set up Python for machine learning
 
-The video: [**Machine learning from scratch**, episode 0](https://youtu.be/Ga8dsY6GcJc), on
+The video: [**Machine learning from scratch**, episode 0](https://youtu.be/BakqOBRhFIA), on
 [MP_Studio's YouTube channel](https://www.youtube.com/@mpstudioapp).
 
 Every step and command from the video, with screenshots, for Windows, Mac and

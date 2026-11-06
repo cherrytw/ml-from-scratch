@@ -13,8 +13,8 @@ Each episode has its own folder:
 
 | # | Episode | Folder |
 | --- | --- | --- |
-| 0 | [Set up Python for machine learning (Windows, Mac, Linux)](https://youtu.be/Ga8dsY6GcJc) | [00-setup](00-setup) |
-| 1 | [Who survived the Titanic?](https://youtu.be/0ZwCM-_6YYU) | [01-titanic](01-titanic) |
+| 0 | [Set up Python for machine learning (Windows, Mac, Linux)](https://youtu.be/BakqOBRhFIA) | [00-setup](00-setup) |
+| 1 | [Who survived the Titanic?](https://youtu.be/TxSd_xVm0LA) | [01-titanic](01-titanic) |
 | 2 | Predicting a number (house prices) | coming next |
 
 ## Start here
