@@ -15,7 +15,8 @@ Each episode has its own folder:
 | --- | --- | --- |
 | 0 | [Set up Python for machine learning (Windows, Mac, Linux)](https://youtu.be/BakqOBRhFIA) | [00-setup](00-setup) |
 | 1 | [Who survived the Titanic?](https://youtu.be/TxSd_xVm0LA) | [01-titanic](01-titanic) |
-| 2 | Predicting a number (house prices) | coming next |
+| 2 | [What is this house worth?](https://youtu.be/X3aMIH--GMQ) | [02-houses](02-houses) |
+| 3 | [Which penguin is it?](https://youtu.be/xsIFHpQZbZM) | [03-penguins](03-penguins) |
 
 ## Start here
 
